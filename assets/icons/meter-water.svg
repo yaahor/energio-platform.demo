@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g transform="translate(0 28)" stroke-width="1">
+    <rect width="67" height="13" rx="2" fill="#fff" stroke="none"/>
+    <rect x="0.5" y="0.5" width="66" height="12" rx="1.5" fill="none" stroke="#000"/>
+  </g>
+
+  <g transform="translate(0 25)" stroke-width="1">
+    <rect width="8" height="19" rx="2" fill="#fff" stroke="none"/>
+    <rect x="0.5" y="0.5" width="7" height="18" rx="1.5" fill="none" stroke="#000"/>
+  </g>
+
+  <g transform="translate(11 11)" stroke-width="1">
+    <circle cx="24" cy="24" r="24" fill="#fff" stroke="none"/>
+    <circle cx="24" cy="24" r="23.5" fill="none" stroke="#000"/>
+  </g>
+
+  <g transform="translate(16 16)" stroke-width="1">
+    <circle cx="19" cy="19" r="19" fill="#fff" stroke="none"/>
+    <circle cx="19" cy="19" r="18.5" fill="none" stroke="#000"/>
+  </g>
+
+  <g transform="translate(21 24)" stroke-width="1">
+    <rect width="28" height="8" rx="2" fill="#fff" stroke="none"/>
+    <rect x="0.5" y="0.5" width="27" height="7" rx="1.5" fill="none" stroke="#000"/>
+  </g>
+
+  <path d="M18.326,5.634a13.9,13.9,0,0,0-18.179,0,.424.424,0,0,0-.01.633l.988.935a.485.485,0,0,0,.647.01,11.471,11.471,0,0,1,14.93,0,.485.485,0,0,0,.647-.01l.988-.935a.424.424,0,0,0-.01-.633Zm-9.09,5.428a1.764,1.764,0,1,0,1.847,1.762A1.806,1.806,0,0,0,9.236,11.062Zm5.85-2.3a9.184,9.184,0,0,0-11.7,0A.422.422,0,0,0,3.37,9.4l.994.936A.488.488,0,0,0,5,10.356a6.74,6.74,0,0,1,8.471,0,.488.488,0,0,0,.636-.022L15.1,9.4A.422.422,0,0,0,15.086,8.76Z" transform="translate(25.763 35.582)"/>
+
+  <g transform="translate(62 25)" stroke-width="1">
+    <rect width="8" height="19" rx="2" fill="#fff" stroke="none"/>
+    <rect x="0.5" y="0.5" width="7" height="18" rx="1.5" fill="none" stroke="#000"/>
+  </g>
+</svg>
