@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g transform="translate(7 5)" fill="#989898">
+    <path d="M 16 22.5 L 1 22.5 C 0.7243000268936157 22.5 0.5 22.27569961547852 0.5 22 L 0.5 1 C 0.5 0.7243000268936157 0.7243000268936157 0.5 1 0.5 L 16 0.5 C 16.27569961547852 0.5 16.5 0.7243000268936157 16.5 1 L 16.5 22 C 16.5 22.27569961547852 16.27569961547852 22.5 16 22.5 Z" stroke="none"/>
+    <path d="M 1 1 L 1 22 L 16 22 L 16 1 L 1 1 M 1 0 L 16 0 C 16.55228042602539 0 17 0.4477195739746094 17 1 L 17 22 C 17 22.55228042602539 16.55228042602539 23 16 23 L 1 23 C 0.4477195739746094 23 0 22.55228042602539 0 22 L 0 1 C 0 0.4477195739746094 0.4477195739746094 0 1 0 Z" stroke="none" fill="#989898"/>
+  </g>
+  <rect width="3" height="3" transform="translate(9 8)" fill="#fff"/>
+  <rect width="3" height="3" transform="translate(14 8)" fill="#fff"/>
+  <rect width="3" height="3" transform="translate(19 8)" fill="#fff"/>
+  <rect width="3" height="3" transform="translate(9 13)" fill="#fff"/>
+  <rect width="3" height="3" transform="translate(14 13)" fill="#fff"/>
+  <rect width="3" height="3" transform="translate(19 13)" fill="#fff"/>
+  <rect width="3" height="3" transform="translate(9 18)" fill="#fff"/>
+  <rect width="3" height="3" transform="translate(14 18)" fill="#fff"/>
+  <rect width="3" height="3" transform="translate(19 18)" fill="#fff"/>
+  <rect width="7" height="5" transform="translate(12 24)" fill="#fff"/>
+</svg>
