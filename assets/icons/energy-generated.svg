@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <filter id="Rechteck_727" x="0" y="0" width="88" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(9 5)">
+    <g transform="matrix(1, 0, 0, 1, -9, -5)" filter="url(#Rechteck_727)">
+      <rect width="70" height="70" rx="12" transform="translate(9 6)" fill="#fff9dd"/>
+    </g>
+    <path d="M12.509,1.488c.743-.429.217-1.459.96-1.03l8.289,4.787c1.691.977.837,3.133-1.242,3.133L3.81,9.264c-2.079,0-1.671-2.206.02-3.183Z" transform="matrix(0.755, -0.656, 0.656, 0.755, 22.389, 43.089)" fill="#ffd200"/>
+    <path d="M11.715,1.632c.659-.452.561-1.623,1.22-1.171l7.358,5.045a1.81,1.81,0,0,1-1.1,3.3L3.411,9.6C1.566,9.6.953,7.885,2.454,6.856Z" transform="translate(46.228 29.146) rotate(135)" fill="#ffd200"/>
+    <path d="M.507,9.3A12.5,12.5,0,0,1,2.018,3.1,17.381,17.381,0,0,1,3.3.774c.043-.066.75-.963,1.057-1.3C6.6-3.008,9.239-4.022,12.079-4.89A17.383,17.383,0,0,1,29.225-.307" transform="translate(17.87 24.502)" fill="none" stroke="#ffe777" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path d="M6.293.707a1,1,0,0,1,1.414,0l4.586,4.586A1,1,0,0,1,11.586,7H2.414a1,1,0,0,1-.707-1.707Z" transform="matrix(-0.719, 0.695, -0.695, -0.719, 56.972, 24.018)" fill="#ffe777"/>
+    <path d="M.507,9.3A12.5,12.5,0,0,1,2.018,3.1,17.381,17.381,0,0,1,3.3.774c.043-.066.75-.963,1.057-1.3C6.6-3.008,9.239-4.022,12.079-4.89A17.383,17.383,0,0,1,29.225-.307" transform="translate(51.997 47.498) rotate(180)" fill="none" stroke="#ffe777" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path d="M6.293.707a1,1,0,0,1,1.414,0l4.586,4.586A1,1,0,0,1,11.586,7H2.414a1,1,0,0,1-.707-1.707Z" transform="translate(13.028 48.306) rotate(-47)" fill="#ffe777"/>
+    <rect width="72" height="72" fill="#fff" opacity="0"/>
+  </g>
+</svg>

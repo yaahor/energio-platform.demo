@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <filter id="Rechteck_740" x="0" y="0" width="88" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <circle cx="17" cy="17" r="17" transform="translate(939.5 441)" fill="#c4e1e8"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(8 5)">
+    <g transform="matrix(1, 0, 0, 1, -8, -5)" filter="url(#Rechteck_740)">
+      <rect width="70" height="70" rx="12" transform="translate(9 6)" fill="#fdfdfd"/>
+    </g>
+    <circle cx="17" cy="17" r="17" transform="translate(26 17.25)" fill="#fab03c"/>
+    <line x2="2" y2="3" transform="translate(29.5 11.75)" fill="none" stroke="#f8e98e" stroke-linecap="round" stroke-width="2"/>
+    <line y2="3" transform="translate(42.5 8.75)" fill="none" stroke="#f8e98e" stroke-linecap="round" stroke-width="2"/>
+    <line x1="2" y2="3" transform="translate(53.5 11.75)" fill="none" stroke="#f8e98e" stroke-linecap="round" stroke-width="2"/>
+    <line x1="3" y2="2" transform="translate(61.5 20.75)" fill="none" stroke="#f8e98e" stroke-linecap="round" stroke-width="2"/>
+    <line x1="3" y2="0.5" transform="translate(64.5 33.75)" fill="none" stroke="#f8e98e" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="5" cy="5" r="5" transform="translate(6 26)" fill="#dde9ed"/>
+    <rect width="25" height="7" rx="3.5" transform="translate(8 29)" fill="#dde9ed"/>
+    <circle cx="7" cy="7" r="7" transform="translate(24 22)" fill="#dde9ed"/>
+    <circle cx="9" cy="9" r="9" transform="translate(11 16)" fill="#dde9ed"/>
+    <circle cx="7" cy="7" r="7" transform="translate(11 18)" fill="#f0f5f7"/>
+    <circle cx="6" cy="6" r="6" transform="translate(23 24)" fill="#f0f5f7"/>
+    <rect width="25" height="7" rx="3.5" transform="translate(8 29)" fill="#f0f5f7"/>
+    <circle cx="5" cy="5" r="5" transform="translate(6 26)" fill="#f0f5f7"/>
+    <circle cx="5" cy="5" r="5" transform="translate(11 38)" fill="#dde9ed"/>
+    <rect width="25" height="7" rx="3.5" transform="translate(13 41)" fill="#dde9ed"/>
+    <circle cx="7" cy="7" r="7" transform="translate(25 34)" fill="#a4d5dd"/>
+    <circle cx="9" cy="9" r="9" transform="translate(12 28)" fill="#a4d5dd"/>
+    <circle cx="7" cy="7" r="7" transform="translate(12 30)" fill="#c4e1e8"/>
+    <circle cx="6" cy="6" r="6" transform="translate(24 36)" fill="#c4e1e8"/>
+    <rect width="25" height="7" rx="3.5" transform="translate(9 41)" fill="#c4e1e8"/>
+    <circle cx="5" cy="5" r="5" transform="translate(7 38)" fill="#c4e1e8"/>
+    <circle cx="5" cy="5" r="5" transform="translate(31 47)" fill="#dde9ed"/>
+    <rect width="25" height="7" rx="3.5" transform="translate(33 50)" fill="#dde9ed"/>
+    <circle cx="7" cy="7" r="7" transform="translate(49 43)" fill="#dde9ed"/>
+    <circle cx="9" cy="9" r="9" transform="translate(36 37)" fill="#dde9ed"/>
+    <circle cx="7" cy="7" r="7" transform="translate(36 39)" fill="#f0f5f7"/>
+    <circle cx="6" cy="6" r="6" transform="translate(48 45)" fill="#f0f5f7"/>
+    <rect width="25" height="7" rx="3.5" transform="translate(33 50)" fill="#f0f5f7"/>
+    <circle cx="5" cy="5" r="5" transform="translate(31 47)" fill="#f0f5f7"/>
+    <circle cx="5" cy="5" r="5" transform="translate(9 51)" fill="#dde9ed"/>
+    <rect width="25" height="7" rx="3.5" transform="translate(11 54)" fill="#dde9ed"/>
+    <circle cx="7" cy="7" r="7" transform="translate(27 47)" fill="#dde9ed"/>
+    <circle cx="9" cy="9" r="9" transform="translate(14 41)" fill="#dde9ed"/>
+    <circle cx="7" cy="7" r="7" transform="translate(14 43)" fill="#f0f5f7"/>
+    <circle cx="6" cy="6" r="6" transform="translate(26 49)" fill="#f0f5f7"/>
+    <rect width="25" height="7" rx="3.5" transform="translate(11 54)" fill="#f0f5f7"/>
+    <circle cx="5" cy="5" r="5" transform="translate(9 51)" fill="#f0f5f7"/>
+    <g transform="translate(-901 -439)" clip-path="url(#clip-path)">
+      <circle cx="17" cy="17" r="17" transform="translate(927 456.25)" fill="#f6cb43"/>
+    </g>
+    <rect width="72" height="72" fill="#fff" opacity="0"/>
+  </g>
+</svg>
