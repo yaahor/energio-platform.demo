@@ -1,0 +1,8 @@
+{
+  "realm": "energio",
+  "auth-server-url": "https://au-dev.myenergio.com/",
+  "ssl-required": "external",
+  "resource": "platform-demo",
+  "public-client": true,
+  "confidential-port": 0
+}
